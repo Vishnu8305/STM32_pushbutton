@@ -49,11 +49,3 @@ You can easily modify this project by:
 2. Open the project in STM32CubeIDE.
 3. Compile and flash the code to your STM32 microcontroller.
 4. Test the push button functionality by either pressing a button or connecting the pin to GND or VCC.
-
----
-
-Feel free to edit the code for your specific needs or hardware configuration. Contributions and improvements are welcome!
-
---- 
-
-This README should guide new users through the basic setup, functionality, and how to modify the project. Let me know if you'd like further changes!
